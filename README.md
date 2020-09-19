@@ -3,4 +3,4 @@
 
 <br> **Dibyasha Panda**
 
-<br> (C:\Users\HP-PC\Desktop/logo.gif)(www.linkedin.com)
+<br> !(C:\Users\HP-PC\Desktop/logo.gif)(www.linkedin.com)
