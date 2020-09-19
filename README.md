@@ -3,4 +3,4 @@
 
 <br> **Dibyasha Panda**
 
-<br> [![image link](images/linkedin.png width="48")](https://linkedin.com/)
+<br> <a href="https://linkedin.com/"><img src="C:\Users\HP-PC\Desktop\linkedin.png" align="left" height="48" width="48" ></a>
