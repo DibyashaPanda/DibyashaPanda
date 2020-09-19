@@ -3,4 +3,4 @@
 
 <br> **Dibyasha Panda**
 
-<br> [![DevIncept logo image link](desktop/logo.gif)](https://devincept.tech/)
+<br> [![image link](images/logo.gif)](https://linkedin.com/)
