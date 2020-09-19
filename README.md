@@ -8,6 +8,6 @@
 <a href="https://gmail.com/"><img src = "https://github.com/DibyashaPanda/dibyasha-panda/blob/master/images/gmail.jpg" width = "48" height = "48"></a>
 
 <br> **Hello** :wave: 
-I am Dibyasha Panda. My main interest lies in Machine Learning and Big Data. I also have basic knowledge of Python. I am always curious to learn something new.
+<br> I am Dibyasha Panda. My main interest lies in Machine Learning and Big Data. I also have basic knowledge of Python. I am always curious to learn something new.<br>
 
     
