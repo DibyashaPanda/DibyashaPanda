@@ -3,4 +3,4 @@
 
 <br> **Dibyasha Panda**
 
-<br> [![image link](images/linkedin.png = 100*20)](https://linkedin.com/)
+<br> [![image link](images/linkedin.png width="48")](https://linkedin.com/)
