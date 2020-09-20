@@ -12,5 +12,8 @@
 :seedling: I am currently learning **Tensorflow**.
 :ocean: I am looking to collaborate on amy **ML** projects.
 :rose: I want to learn **Docker** and to implement ML models on Azure.
+:speech_balloon: Ask me about ML, Python and Azure.
+:mailbox: Contact me on this email **dibyashapanda365@gmail.com**
+:iphone: Feel free to reach me anytime.
 
     
