@@ -9,11 +9,12 @@
 
 <br> **Hello** :wave: 
 <br> I am Dibyasha Panda. My main interest lies in Machine Learning and Big Data. I also have basic knowledge of Python and Microsoft Azure. I am always curious to learn something new.<br>
-:seedling: I am currently learning **Tensorflow**.
+<br>:seedling: I am currently learning **Tensorflow**.
 :ocean: I am looking to collaborate on amy **ML** projects.
 :rose: I want to learn **Docker** and to implement ML models on Azure.
 :speech_balloon: Ask me about ML, Python and Azure.
 :mailbox: Contact me on this email **dibyashapanda365@gmail.com**
 :iphone: Feel free to reach me anytime.
+:smile::hug: 
 
     
