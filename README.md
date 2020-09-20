@@ -1,4 +1,4 @@
-:smile:dibyasha-panda
+dibyasha-panda :innocent:
 
 
 <br> **Dibyasha Panda** <br>
@@ -15,6 +15,6 @@
 <br>:speech_balloon: Ask me about ML, Python and Azure.
 <br>:mailbox: Contact me on this email **dibyashapanda365@gmail.com**
 <br>:iphone: Feel free to reach me anytime.
-<br>:hugging face: :blush: 
+<br>:hugs: :blush: 
 
     
