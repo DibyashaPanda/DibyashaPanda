@@ -11,7 +11,7 @@ dibyasha-panda :innocent:
 <br> **Namaskar** :pray:
 <br> I am Dibyasha Panda. My main interest lies in Machine Learning and Big Data. I also have basic knowledge of Python and Microsoft Azure. I am always curious to learn something new.
 <br>:seedling: I am currently learning **Tensorflow**.
-<br>:ocean: I am looking to collaborate on amy **ML** projects.
+<br>:ocean: I am looking to collaborate on any **ML** projects.
 <br>:rose: I want to learn **Docker** and to implement ML models on Azure.
 <br>:speech_balloon: Ask me about ML, Python and Azure.
 <br>:mailbox: Contact me on this email **dibyashapanda365@gmail.com**
